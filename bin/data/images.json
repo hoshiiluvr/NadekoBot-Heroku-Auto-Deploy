@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 1,
   "Coins": {
     "Heads": [
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/coins/heads.png"
@@ -9,10 +9,9 @@
     ]
   },
   "Currency": [
-    "https://cdn.discordapp.com/attachments/731215295708135526/799204521749643284/MWAHH.gif",
-    "https://cdn.discordapp.com/attachments/731215295708135526/799204595644497920/WENDYSKDJN.gif",
-    "https://cdn.discordapp.com/attachments/731215295708135526/799204632857280522/letsGO.gif",
-    "https://cdn.discordapp.com/attachments/731215295708135526/799204636941746186/LOMLLL.gif"
+    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/0.jpg",
+    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/1.jpg",
+    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/2.jpg"
   ],
   "Dice": [
     "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/dice/0.png",
@@ -31,7 +30,7 @@
     "Dot": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/rategirl/dot.png"
   },
   "Xp": {
-    "Bg": "https://media.discordapp.net/attachments/809444670337581118/810084606900043786/Untitled2_20201129112743_1.png"
+    "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/xp/bg.png"
   },
   "Rip": {
     "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/rip/rip.png",
